@@ -1,0 +1,1 @@
+Sitemap: https://github.com/charles-ramirez/stat-projects/sitemap.xml

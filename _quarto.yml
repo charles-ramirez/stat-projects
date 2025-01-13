@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Stat Projects"
+  description:
+    A collection of projects I've done as a student at the Zicklin School of Business
+  site-url: "https://github.com/charles-ramirez/stat-projects"
+  navbar:
+    background: primary
+    search: false
+    
+format:
+  html:
+    theme: cerulean
+    toc: true
