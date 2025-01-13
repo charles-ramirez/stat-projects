@@ -2,13 +2,17 @@
 title: "Welcome to my website!"
 ---
 
-Hello! My name is Charles, and I grew up in the diverse borough of Queens, NY—the melting pot of New York City!
+![](/Users/charlesramirez/stat-projects/img/zipline_in_sxm.png)
+
+Hello! My name is Charles, and I grew up in the diverse borough of Queens, NY — the melting pot of New York City!
 
 I'm currently pursuing an MS in Statistics with a focus on Data Science at the Zicklin School of Business, expecting to graduate in 2026.
 
 My professional background spans multiple sectors. I've worked in both the non-profit and private sectors, taking on a variety of roles that allowed me to wear many hats. This experience has taught me to adapt quickly, embrace challenges, and pick up new skills along the way.
 
 Over the past five years, I've developed a deep appreciation for how data can be visualized and leveraged to connect with people and answer complex questions. I love how data can act like paint on a canvas, creating stories that inform and inspire. 
+
+![](/Users/charlesramirez/stat-projects/img/Rockclimbing_central park.png)
 
 Outside of work, I've picked up rock climbing and it's a sport that I really enjoy, and has opened up my perspective and appreciation of puzzles! I also love to travel, hike, and cook. I try to cook for my family over the weekends, and recently I've enjoyed learning how to cook Asian cuisine. 
 
