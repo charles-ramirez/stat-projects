@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -70,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -91,41 +90,31 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-broadside column-page">
+  <div class="about-main">
+    <div class="about-entity" style="background-image: url('img/zipline_in_sxm.png')"></div>
+    <div class="about-contents"><header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Welcome to my website!</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-
-</header>
-
-
-<p>Hello! My name is Charles, and I grew up in the diverse borough of Queens, NY—the melting pot of New York City!</p>
+</header><main class="content" id="quarto-document-content">
+<p>Hello! My name is Charles, and I grew up in the diverse borough of Queens, NY — the melting pot of New York City!</p>
 <p>I’m currently pursuing an MS in Statistics with a focus on Data Science at the Zicklin School of Business, expecting to graduate in 2026.</p>
 <p>My professional background spans multiple sectors. I’ve worked in both the non-profit and private sectors, taking on a variety of roles that allowed me to wear many hats. This experience has taught me to adapt quickly, embrace challenges, and pick up new skills along the way.</p>
 <p>Over the past five years, I’ve developed a deep appreciation for how data can be visualized and leveraged to connect with people and answer complex questions. I love how data can act like paint on a canvas, creating stories that inform and inspire.</p>
+<p><img src="img/Rockclimbing_central park.png" class="img-fluid"></p>
 <p>Outside of work, I’ve picked up rock climbing and it’s a sport that I really enjoy, and has opened up my perspective and appreciation of puzzles! I also love to travel, hike, and cook. I try to cook for my family over the weekends, and recently I’ve enjoyed learning how to cook Asian cuisine.</p>
 <p>I created a Github to help me document my technical journey as I expand my skills and knowledge of R, Python, and other languages. Feel free to message me on Github or connect on <a href="https://www.linkedin.com/in/charles-r-a6b185129/">LinkedIn</a>.</p>
 
 
-
-</main> <!-- /main -->
+</main></div>
+  </div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -146,13 +135,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
