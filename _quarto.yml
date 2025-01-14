@@ -10,8 +10,12 @@ website:
   navbar:
     background: primary
     search: false
+    right: 
+      - text: "Home"
+      menu: 
+        - text: "Project 1: Transit"
     
 format:
   html:
-    theme: cerulean
+    theme: cosmo
     toc: true
