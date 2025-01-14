@@ -14,6 +14,7 @@ website:
       - text: "Home"
       menu: 
         - text: "Project 1: Transit"
+        project1.qmd
     
 format:
   html:
