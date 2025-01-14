@@ -10,11 +10,15 @@ website:
   navbar:
     background: primary
     search: false
-    right: 
+    left: 
       - text: "Home"
       menu: 
         - text: "Project 1: Transit"
-        project1.qmd
+          href: project1.qmd
+          
+    tools:
+      - icon: github
+        href: https://github.com/charles-ramirez/
     
 format:
   html:
